@@ -1,5 +1,11 @@
 # Changelog
 
+## [9.1.7](https://github.com/npm/cli/compare/arborist-v9.1.6...arborist-v9.1.7) (2025-11-13)
+### Bug Fixes
+* [`05319f0`](https://github.com/npm/cli/commit/05319f0cc3fee6680e4f59a13ed9420785cf673b) [#8677](https://github.com/npm/cli/pull/8677) code cleanup (#8677) (@wraithgar)
+* [`49a4eef`](https://github.com/npm/cli/commit/49a4eefd613dbb60bcff3dac39129f70586d3cff) [#8676](https://github.com/npm/cli/pull/8676) use look behind regex for trailing slash stripping (#8676) (@wraithgar)
+* [`b1aee62`](https://github.com/npm/cli/commit/b1aee62082d7b25ec07f64e906afd76840907fbd) [#8645](https://github.com/npm/cli/pull/8645) dep flag calculation (#8645) (@liamcmitchell)
+
 ## [9.1.6](https://github.com/npm/cli/compare/arborist-v9.1.5...arborist-v9.1.6) (2025-10-08)
 ### Bug Fixes
 * [`0a8b8c2`](https://github.com/npm/cli/commit/0a8b8c2ba37872b08a24bcf067f6da34d718f6d8) [#8621](https://github.com/npm/cli/pull/8621) typo bugs and other spelling fixes (#8621) (@jsoref)
